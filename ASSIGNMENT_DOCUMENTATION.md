@@ -1,5 +1,4 @@
-# Data Structures Assignment 1
-## Computer Science - First Year
+# Data Structures 
 
 ---
 
@@ -318,4 +317,3 @@ gcc nonlinear_binary_tree.c -o nonlinear_binary_tree
 
 **Remember:** There's no "best" data structure - only the best one for your specific problem!
 
-Good luck with your assignment! 🎓
