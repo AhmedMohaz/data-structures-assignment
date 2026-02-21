@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Assignment Overview
+##  Assignment Overview
 
 This assignment demonstrates the fundamental data structures in C programming language:
 
@@ -18,7 +18,7 @@ All code is written without comments as requested, using simple variable names l
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 | File | Description | Lines of Code |
 |------|-------------|---------------|
@@ -31,7 +31,7 @@ All code is written without comments as requested, using simple variable names l
 
 ---
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 ### 1. Primitive Type
 ```bash
@@ -86,7 +86,7 @@ Right Child: 70
 
 ---
 
-## 📊 Quick Classification Reference
+## Quick Classification Reference
 
 ### Primitive Types
 - **Classification:** Basic building blocks
@@ -113,7 +113,7 @@ Right Child: 70
 
 ---
 
-## 🔑 Key Concepts
+##  Key Concepts
 
 ### Contiguous vs Non-Contiguous Memory
 
@@ -143,7 +143,7 @@ Connected by pointers, not physical location
 
 ---
 
-## 📚 Real-World Applications
+## Real-World Applications
 
 ### Arrays
 - Student ID lists (fixed class size)
@@ -163,7 +163,7 @@ Connected by pointers, not physical location
 
 ---
 
-## 🎯 Data Structures vs Algorithms
+## Data Structures vs Algorithms
 
 ### Speed Trade-offs
 | Operation | Array | Linked List | Binary Tree |
@@ -182,19 +182,19 @@ Connected by pointers, not physical location
 
 ---
 
-## ✅ Learning Objectives Achieved
+##  Learning Objectives Achieved
 
-- ✅ Understand primitive data types in C
-- ✅ Implement linear static structure (array)
-- ✅ Implement linear dynamic structure (linked list)
-- ✅ Implement non-linear structure (binary tree)
-- ✅ Explain contiguous vs non-contiguous memory
-- ✅ Identify real-world applications
-- ✅ Understand data structures and algorithms relationship
+-  Understand primitive data types in C
+-  Implement linear static structure (array)
+-  Implement linear dynamic structure (linked list)
+-  Implement non-linear structure (binary tree)
+-  Explain contiguous vs non-contiguous memory
+-  Identify real-world applications
+-  Understand data structures and algorithms relationship
 
 ---
 
-## 📖 Full Documentation
+##  Full Documentation
 
 For complete explanations, classifications, and detailed analysis, see:
 **`ASSIGNMENT_DOCUMENTATION.md`**
@@ -210,7 +210,7 @@ This document includes:
 
 ---
 
-## 🛠️ Development Notes
+##  Development Notes
 
 - **Language:** C (gcc compiler)
 - **Style:** Beginner-friendly, no comments in code
@@ -220,7 +220,7 @@ This document includes:
 
 ---
 
-## 📝 Author Notes
+##  Author Notes
 
 This assignment demonstrates fundamental understanding of:
 1. Data structure classification hierarchy
@@ -229,8 +229,6 @@ This assignment demonstrates fundamental understanding of:
 4. Trade-offs between different structures
 5. Practical applications in real systems
 
-**All code tested and verified working!** ✅
 
----
 
-**Good luck with your studies!** 🎓
+
