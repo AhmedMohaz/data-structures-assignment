@@ -305,7 +305,7 @@ gcc nonlinear_binary_tree.c -o nonlinear_binary_tree
 
 ---
 
-## Key Takeaways for First-Year Students
+## Key Takeaways 
 
 1. **Primitive types** are the building blocks - they store single values
 2. **Arrays** are great when you know the size and need fast access
